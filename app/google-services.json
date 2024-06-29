@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345035572172",
+    "project_id": "sharefare-820f0",
+    "storage_bucket": "sharefare-820f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345035572172:android:6ede0961cf92656a70d369",
+        "android_client_info": {
+          "package_name": "com.example.sharefare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU7CwrssQx4tpS5Pj0-8OSr7gJKFhFdyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
